@@ -5,6 +5,7 @@
     ":label(renovate)",
     ":semanticPrefixFix",
     ":separateMultipleMajorReleases",
+    ":automergeDigest",
     ":automergePatch"
   ],
   "packageRules": [
